@@ -1,0 +1,47 @@
+[
+  {
+    "userFirstName": "stina",
+    "userPassword": "smeds",
+    "userId": 546546
+  },
+  {
+    "userFirstName": "fredrik",
+    "userPassword": "sundgren",
+    "userId": 548746
+  },
+  {
+    "userFirstName": "johannes",
+    "userPassword": "smeds-sundgren",
+    "userId": 676546
+  },
+  {
+    "userFirstName": "samuel",
+    "userPassword": "smeds-sundgren",
+    "userId": 546537
+  },
+  {
+    "userFirstName": "kyliestina",
+    "userPassword": "frihet",
+    "userId": 654421
+  },
+  {
+    "userFirstName": "kyliestina",
+    "userPassword": "sundgren",
+    "userId": 184461
+  },
+  {
+    "userFirstName": "stintan",
+    "userPassword": "lösen",
+    "userId": 951446
+  },
+  {
+    "userFirstName": "johannes",
+    "userPassword": "sundgren",
+    "userId": 274173
+  },
+  {
+    "userFirstName": "kalle",
+    "userPassword": "kuling",
+    "userId": 928845
+  }
+]
